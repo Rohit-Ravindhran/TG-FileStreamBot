@@ -1,1 +1,1 @@
-web: python -m main
+python3 -m WebStreamer
